@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Caio Lucas 👋</h1>
 
 <p align="center">
-  🚀 Senior React Native Developer | Focused on performance, architecture, and product impact.
+  🚀 React Native Developer | Focused on performance, architecture, and product impact.
 </p>
 
 ---
