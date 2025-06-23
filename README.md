@@ -8,7 +8,7 @@
 
 ### 💼 Sobre mim
 
-Sou um desenvolvedor mobile com mais de 3 anos de experiência focado em **React Native**, entregando apps para milhares de usuários em empresas como **Volkswagen** e **Ferreira Costa**. Atuo desde a concepção até o deploy, sempre com foco em performance, escalabilidade e experiência do usuário.
+Desenvolvedor mobile com mais de 4 anos de experiência focado em **React Native**, entregando apps para milhares de usuários em empresas como **Volkswagen** e **Ferreira Costa**. Atuo desde a concepção até o deploy, sempre com foco em performance, escalabilidade e experiência do usuário.
 
 - 🔹 Atuação em projetos de grande porte: Unilever, Bayer, Volkswagen, Ferreira Costa (E-commerce)
 - 🔹 Domínio em TypeScript, Redux, Context API, Reanimated, Firebase
